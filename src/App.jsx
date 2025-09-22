@@ -6,7 +6,9 @@ import Home from "./pages/Home";
 import Rooms from "./pages/Rooms";
 import RoomDetails from "./pages/RoomDetails";
 import CartPage from "./pages/CartPage";
-import Checkout from "./pages/Checkout";
+import Checkout from "./pages/CheckOut";
+// import Checkout from "./pages/Checkout.jsx";
+
 import Payment from "./pages/Payment";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup"; // Added Signup page
